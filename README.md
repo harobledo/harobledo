@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hernán Robledo
 
-<!--
-**harobledo/harobledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi - Hola, I am Hernán Robledo and I'm learning how to create a readme profile.
 
-Here are some ideas to get you started:
+## What have I done
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a statistician from *la PUC*
+
+## What I want to be
+
+I want to be an researcher
+
+## What I am searching for now
+
+Looking for a postgraduate degree
+
+## Contact
+
+- mail: harobledo@uc.cl
