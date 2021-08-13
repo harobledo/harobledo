@@ -1,10 +1,10 @@
 # Hernán Robledo
 
-Hi - Hola, I am Hernán Robledo and I'm learning how to create a readme profile.
+Hola hola - Hi, I am Hernán Robledo, Statiscian from the *Pontificia Universidad Católica de Chile* (PUC). 
 
 ## What have I done
 
-I'm a statistician from *la PUC*
+Got a degree in statistics in the PUC. 
 
 ## What I want to be
 
