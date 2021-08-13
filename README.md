@@ -8,7 +8,7 @@ I'm a statistician from *la PUC*
 
 ## What I want to be
 
-I want to be an researcher
+I want to be a researcher
 
 ## What I am searching for now
 
